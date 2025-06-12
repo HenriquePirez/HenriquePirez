@@ -6,12 +6,12 @@ Atualmente curso Sistemas de Informação no IFES - Campus Colatina (2022–2025
 💻 **Desenvolvedor Fullstack**  
 Tenho experiência no desenvolvimento de aplicações completas, atuando tanto no backend quanto no frontend. Minhas principais tecnologias são:
 
-- **Java** (minha linguagem principal)
+- **Java** 
 - **JavaScript**
-- **Spring Boot** (backend)
-- **React Native** (frontend mobile)
-- **PostgreSQL** (banco de dados, geralmente rodando em containers Docker)
-- **Swagger** (documentação de APIs)
+- **Spring Boot** 
+- **React Native** 
+- **PostgreSQL** 
+- **Swagger** 
 
 ## 🚀 Projetos em destaque
 
