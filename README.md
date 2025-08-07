@@ -3,7 +3,7 @@
 🎓 **Estudante de Sistemas de Informação**  
 Atualmente curso Sistemas de Informação no IFES - Campus Colatina (2022–2025).
 
-💻 **Desenvolvedor Fullstack**  
+💻 **Engenheiro de Software**  
 Tenho experiência no desenvolvimento de aplicações completas, atuando tanto no backend quanto no frontend. Minhas principais tecnologias são:
 
 - **Java** 
