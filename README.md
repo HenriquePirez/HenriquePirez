@@ -32,6 +32,7 @@ Frontend mobile do aplicativo de organização de eventos, desenvolvido em parce
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-pires-972b32267)
 
+Celular: (31) 9954-2304
 ---
 
 Sinta-se à vontade para explorar meus repositórios ou entrar em contato!
